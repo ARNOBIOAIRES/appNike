@@ -53,7 +53,7 @@ no terminal integrado do VSCode: npx expo start.
 
 Quando iniciado você também poderá instalar em seu  smartphone o aplicativo EXPO GO, disponivel na  play store para android, em seguida leia o código abaixo:
 <p align="center">
-  <img alt="qr code para acesso" src=".github/qrcode.jpg" width="25%">
+  <img alt="qr code para acesso" src=".github/qrcode.jpg" width="50%">
 </p>
 
 
