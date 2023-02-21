@@ -26,7 +26,7 @@ Projeto desenvolvido com tecnologias Mobile - React Native.
 </p>
 
 <p align="center">
-  <img alt="foto 3 - terceira tela" src=".github/foto2.jpg" width="25%">
+  <img alt="foto 3 - terceira tela" src=".github/foto3.jpg" width="25%">
 </p>
 
 ## 🚀 Tecnologias
