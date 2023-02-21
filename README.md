@@ -44,15 +44,18 @@ Loja virtual clone de tênis
 
 ## 🔖 Layout
 
-Você pode acessar o projeto através, instalado no seu celular o aplicativo
-da expo expoGo e em seguida executando a leitura desse [DESSE QR CODE]:
+Para acessar o projeto é necessário ter instalado em sua máquina local o android studio.
+Após instalação, clique na opçao: More Actions e selecione Virtual Manange Device (o simulador) em seguida execute o seguinte comando
+no terminal integrado do VSCode: npx expo start.
+<p align="center">
+  <img alt="tela de instalação do android" src=".github/fotoandroid.jpg" width="25%">
+</p>
+
+Quando iniciado você também poderá instalar em seu  smartphone o aplicativo EXPO GO, disponivel na  play store para android, em seguida leia o código abaixo:
 <p align="center">
   <img alt="qr code para acesso" src=".github/qrcode.jpg" width="25%">
 </p>
 
-(https://192.168.0.207:19000).
-Obs.: para acessar o projeto é necessário ter instalado
-o android studio, para utilizar o simulador.
 
 ## :memo: Licença
 
