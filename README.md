@@ -18,15 +18,15 @@ Projeto desenvolvido com tecnologias Mobile - React Native.
 <br>
 
 <p align="center">
-  <img alt="foto 1 - tela principal" src=".github/foto1.jpg" width="100%">
+  <img alt="foto 1 - tela principal" src=".github/foto1.jpg" width="25%">
 </p>
 
 <p align="center">
-  <img alt="foto 2 - segunda tela" src=".github/foto2.jpg" width="100%">
+  <img alt="foto 2 - segunda tela" src=".github/foto2.jpg" width="25%">
 </p>
 
 <p align="center">
-  <img alt="foto 3 - terceira tela" src=".github/foto2.jpg" width="100%">
+  <img alt="foto 3 - terceira tela" src=".github/foto2.jpg" width="25%">
 </p>
 
 ## 🚀 Tecnologias
