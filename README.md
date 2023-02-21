@@ -48,12 +48,12 @@ Para acessar o projeto é necessário ter instalado em sua máquina local o andr
 Após instalação, clique na opçao: More Actions e selecione Virtual Manange Device (o simulador) em seguida execute o seguinte comando
 no terminal integrado do VSCode: npx expo start.
 <p align="center">
-  <img alt="tela de instalação do android" src=".github/fotoandroid.jpg" width="25%">
+  <img alt="tela de instalação do android" src=".github/fotoandroid.jpg" width="50%">
 </p>
 
 Quando iniciado você também poderá instalar em seu  smartphone o aplicativo EXPO GO, disponivel na  play store para android, em seguida leia o código abaixo:
 <p align="center">
-  <img alt="qr code para acesso" src=".github/qrcode.jpg" width="50%">
+  <img alt="qr code para acesso" src=".github/qrcode.jpg" width="25%">
 </p>
 
 
