@@ -47,7 +47,7 @@ Loja virtual clone de tênis
 Você pode acessar o projeto através, instalado no seu celular o aplicativo
 da expo expoGo e em seguida executando a leitura desse [DESSE QR CODE]:
 <p align="center">
-  <img alt="qr code para acesso" src=".github/qrcode.jpg" width="100%">
+  <img alt="qr code para acesso" src=".github/qrcode.jpg" width="25%">
 </p>
 
 (https://192.168.0.207:19000).
